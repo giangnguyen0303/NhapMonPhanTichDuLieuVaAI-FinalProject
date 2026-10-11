@@ -1,0 +1,17 @@
+{
+  "raw_rows": 4573,
+  "removed_missing_title": 0,
+  "removed_duplicates": 857,
+  "clean_rows": 3716,
+  "invalid_values_to_nan": {
+    "imdb_rating": 0,
+    "metascore": 0,
+    "duration_minutes": 0,
+    "year": 0
+  },
+  "notes": [
+    "Không loại bỏ IQR outliers tự động.",
+    "Không suy luận cơ chế MCAR/MAR/MNAR chỉ từ missing-count.",
+    "Biến số thiếu được giữ lại để impute trên tập training."
+  ]
+}
