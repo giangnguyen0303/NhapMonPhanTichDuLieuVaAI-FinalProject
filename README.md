@@ -87,16 +87,21 @@ Tên 4 cụm (diễn giải theo hồ sơ trung bình): *Giải trí đại chú
 - **Không rò rỉ nhãn**: mô hình phân loại không nhận điểm IMDb làm đầu vào;
   nhãn `rating_class` được xác định trước theo ngưỡng 7.0.
 
+
 ## 5. Ảnh chụp demo
 
-Ảnh chụp ứng dụng thực tế nằm trong `report/screenshots/`:
+### 5.1. Trang chủ tổng quan
+![Trang chủ tổng quan](report/screenshots/streamlit_home.png)
 
-| File | Nội dung |
-| --- | --- |
-| `streamlit_home.png` | Trang chủ tổng quan |
-| `classification_result.png` | Kết quả trang phân loại |
-| `regression_result.png` | Kết quả trang hồi quy |
-| `clustering_result.png` | Kết quả trang phân cụm |
+### 5.2. Kết quả phân loại (Classification)
+![Kết quả phân loại](report/screenshots/classification_result.png)
+
+### 5.3. Kết quả hồi quy (Regression)
+![Kết quả hồi quy](report/screenshots/regression_result.png)
+
+### 5.4. Kết quả phân cụm (Clustering)
+![Kết quả phân cụm](report/screenshots/clustering_result.png)
+
 
 ## 6. Nguồn dữ liệu
 
