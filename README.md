@@ -1,10 +1,30 @@
+
 # NhapMonPhanTichDuLieuVaAI — Final Project (IMDb Analytics & AI)
 
-**Nhóm Sinh Viên Thực Hiện: Nhóm 7**
+**Môn học:** Nhập môn Phân tích Dữ liệu và AI  
+**Đề tài:** Phân tích dữ liệu Internet Movie Database (IMDb)  
+**Nhóm sinh viên thực hiện:** Nhóm 7
 
-Ứng dụng web dự đoán và phân cụm phim IMDb dựa trên dữ liệu Kaggle *IMDb Dataset 2024*.
-Sinh viên thực hiện: Nhập môn Phân tích Dữ liệu & AI — **Thành viên 5 (Tân)** phụ trách
-**giao diện, tích hợp và tổng hợp**.
+## Thành viên nhóm
+
+| STT | Họ và tên | MSSV |
+|---:|---|---|
+| 1 | Nguyễn Trường Giang | 24680531 |
+| 2 | Nguyễn Đỗ Anh Tuấn | 24720851 |
+| 3 | Trương Chánh Tân | 24685301 |
+| 4 | Trịnh Hoàng Nam | 24681351 |
+| 5 | Trương Công Duy | 24708231 |
+
+## Giới thiệu dự án
+
+IMDb Analytics & AI là ứng dụng web phân tích dữ liệu phim IMDb, sử dụng bộ dữ liệu Kaggle *IMDb Dataset 2024*. Dự án tích hợp các mô hình Machine Learning để phân loại phim theo nhóm điểm IMDb, dự đoán điểm IMDb và phân cụm phim nhằm khám phá các đặc trưng dữ liệu.
+
+## Phân công công việc
+
+**Trương Chánh Tân — MSSV: 24685301 (Thành viên 3)**
+
+Phụ trách giao diện ứng dụng, tích hợp các mô hình Machine Learning vào Streamlit và tổng hợp nội dung báo cáo dự án.
+
 
 ## 1. Cấu trúc thư mục
 
