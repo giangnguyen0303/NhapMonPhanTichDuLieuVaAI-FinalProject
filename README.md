@@ -19,13 +19,6 @@
 
 IMDb Analytics & AI là ứng dụng web phân tích dữ liệu phim IMDb, sử dụng bộ dữ liệu Kaggle *IMDb Dataset 2024*. Dự án tích hợp các mô hình Machine Learning để phân loại phim theo nhóm điểm IMDb, dự đoán điểm IMDb và phân cụm phim nhằm khám phá các đặc trưng dữ liệu.
 
-## Phân công công việc
-
-**Trương Chánh Tân — MSSV: 24685301 (Thành viên 3)**
-
-Phụ trách giao diện ứng dụng, tích hợp các mô hình Machine Learning vào Streamlit và tổng hợp nội dung báo cáo dự án.
-
-
 ## 1. Cấu trúc thư mục
 
 ```
