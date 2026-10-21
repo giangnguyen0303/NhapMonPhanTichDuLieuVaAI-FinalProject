@@ -1,5 +1,7 @@
 # NhapMonPhanTichDuLieuVaAI — Final Project (IMDb Analytics & AI)
 
+**Nhóm Sinh Viên Thực Hiện: Nhóm 7**
+
 Ứng dụng web dự đoán và phân cụm phim IMDb dựa trên dữ liệu Kaggle *IMDb Dataset 2024*.
 Sinh viên thực hiện: Nhập môn Phân tích Dữ liệu & AI — **Thành viên 5 (Tân)** phụ trách
 **giao diện, tích hợp và tổng hợp**.
