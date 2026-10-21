@@ -235,7 +235,7 @@ def main() -> None:
                         index=PAGE_KEYS.index(_query_page()),
                         format_func=lambda key: PAGE_LABELS[key], key='nav_page')       
         st.divider()
-        st.caption('APP ĐƯỢC HOÀN THIỆN VÀ PHÁT TRIỂN TỪ NHÓM 6 🩵💙💚💛🧡🩷❤️')
+        st.caption('APP ĐƯỢC HOÀN THIỆN VÀ PHÁT TRIỂN TỪ NHÓM 7 🩵💙💚💛🧡🩷❤️')
     renderers = {
         'home': render_home,
         'classification': render_classification,
